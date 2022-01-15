@@ -1,0 +1,1 @@
+# chargex-fast-charge-magisk
